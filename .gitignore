@@ -1,6 +1,6 @@
 venv-django
 Scripts
-.gitignore
+
 
 # Django #
 *.log
