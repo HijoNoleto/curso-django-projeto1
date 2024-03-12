@@ -1,0 +1,7 @@
+venv-django
+Scripts
+.DS_Store
+Alterações
+__pycache__
+pyvenv.cfg
+test_testando
