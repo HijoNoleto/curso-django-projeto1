@@ -3,6 +3,7 @@ backup
 venv
 manage.py
 requirements.txt
+project
 
 
 
