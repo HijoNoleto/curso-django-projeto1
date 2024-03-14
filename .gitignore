@@ -3,6 +3,7 @@ Scripts
 backup
 requirements.txt
 manage.py
+.vscode
 
 
 # Django #
